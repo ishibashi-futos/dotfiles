@@ -1,0 +1,35 @@
+{
+  "workbench.startupEditor": "none",
+  "shellLauncher.shells.windows": [
+    {
+      "shell": "C:\\Windows\\System32\\cmd.exe",
+      "label": "cmd"
+    },
+    {
+      "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "label": "PowerShell"
+    }
+  ],
+  "editor.renderWhitespace": "all",
+  "files.trimTrailingWhitespace": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "window.restoreWindows": "none",
+  "files.autoGuessEncoding": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.largeFileOptimizations": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "html.format.endWithNewline": true,
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "[markdown]": {
+    "editor.trimAutoWhitespace": false
+  }
+}
